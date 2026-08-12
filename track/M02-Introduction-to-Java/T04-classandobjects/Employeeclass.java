@@ -21,7 +21,5 @@ public class Employeeclass {
         System.out.println(e1.name);
         System.out.println(e2.id);
         System.out.println(e2.name);
-
-    }
-    
+    }   
 }
