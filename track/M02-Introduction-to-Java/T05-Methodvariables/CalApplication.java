@@ -6,8 +6,7 @@ public class CalApplication {
 	    System.out.println(al.add(2, 3,2.5));
 	}  
 }
-
-public class Addition {
+class Addition {
 	int add(int a,int b) {
 		return a+b;
 	}
